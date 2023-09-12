@@ -11,4 +11,4 @@
 * ![Discord](https://img.shields.io/badge/-%40penggin-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F414715506340134913)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=penggin&show_icons=true&theme=radical)
+![GitHub stats](stats-ten-phi.vercel.app/api?username=penggin&show_icons=true&theme=radical)
