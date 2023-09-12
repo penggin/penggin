@@ -1,4 +1,14 @@
-### Hi there 👋
+## 안녕하세요! 👋
+저는 술팽이에요. 만나서 반가워요!
+
+### 참여중인 프로젝트
+> **술팽봇**
+> ㅁㄴㅇㄹ
+> ㅁㄴㅇㄹ
+
+### 연락하기
+아래의 방법으로 저에게 연락하실 수 있어요!
+* ![Discord](https://img.shields.io/badge/-%40penggin-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F414715506340134913)
 
 <!--
 **penggin/penggin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
