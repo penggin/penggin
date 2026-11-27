@@ -1,6 +1,6 @@
 <!-- 🐧 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFE3FF,50:FFE58A,100:F9C846&height=220&section=header&text=penggin&fontSize=72&fontColor=1B1F2A&fontAlignY=38&desc=술%20한%20잔%20하는%20펭귄%20🐧🍶&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFE3FF,50:FFE58A,100:F9C846&height=220&section=header&text=penggin&fontSize=72&fontColor=1B1F2A&fontAlignY=38&desc=술먹는다팽긴%20🐧🍶&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
