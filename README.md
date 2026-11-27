@@ -26,8 +26,6 @@ const penggin = {
   school:   "Gachon University 🎓",
   team:     "@PengbotTeam",
   building: "술팽봇 — Discord bot 🐧🍶",
-  now:      "술팽봇 5.0 + 🎄 크리스마스 이벤트 준비 중",
-  motto:    "유저가 편한 게 최고다",
 };
 ```
 
